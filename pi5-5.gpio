@@ -1,0 +1,4 @@
+ai-camera camera0
+pir # 21
+led (green) #6
+
