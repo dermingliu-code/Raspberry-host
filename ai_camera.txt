@@ -6,8 +6,7 @@ pip install opencv-python
 pip install imutils
 sudo apt install cmake
 pip install face-recognition
-
+*********************
 Ai camera
 https://www.raspberrypi.com/documentation/accessories/ai-camera.html
-
 
