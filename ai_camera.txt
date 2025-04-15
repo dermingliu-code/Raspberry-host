@@ -1,0 +1,13 @@
+#the source https://core-electronics.com.au/guides/raspberry-pi/face-recognition-with-raspberry-pi-and-opencv/
+python3 -m venv --system-site-packages face_rec
+source face_rec/bin/activate
+sudo apt full-upgrade
+pip install opencv-python
+pip install imutils
+sudo apt install cmake
+pip install face-recognition
+
+Ai camera
+https://www.raspberrypi.com/documentation/accessories/ai-camera.html
+
+
